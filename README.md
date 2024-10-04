@@ -59,4 +59,4 @@ C# 7.0 or higher
 .NET Framework 4.7.2 or higher
 
 Class Diagram
-The project utilizes object-oriented principles such as inheritance and polymorphism. The key relationships between the classes are depicted in the included diagram ([p](https://github.com/RomShemer/GarageFactory/blob/master/B24%20Ex03%20RomShemer%20206662587%20NoaAltshuler%20209281419.jpg)).
+The project utilizes object-oriented principles such as inheritance and polymorphism. The key relationships between the classes are depicted in the included diagram ([click here](https://github.com/RomShemer/GarageFactory/blob/master/B24%20Ex03%20RomShemer%20206662587%20NoaAltshuler%20209281419.jpg)).
