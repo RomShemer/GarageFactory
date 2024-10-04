@@ -16,26 +16,31 @@ Inflate tires
 Refuel gas-powered vehicles
 Recharge electric vehicles
 Retrieve and filter vehicle details by state
+
 3. Vehicle
 An abstract class representing vehicles in the garage. It contains common fields such as:
 
 EngineType: The type of engine the vehicle uses
 Tyres: An array of tyres associated with the vehicle
+
 4. Specific Vehicle Types
 Car: Represents a car with additional attributes such as number of doors and color.
 Motorcycle: Represents a motorcycle with attributes like engine capacity and license type.
 Truck: Represents a truck with attributes like hazardous materials transport and cargo volume.
+
 5. Tyre
 Represents a tyre with attributes like:
 
 Manufacturer
 Current air pressure
 Maximum air pressure
+
 6. Engine
 An abstract class representing the engine type, with specific subclasses for:
 
 FuelType: Handles fuel-based vehicles.
 ElectricType: Handles electric vehicles.
+
 7. ConsoleUI and GarageManagerUI
 ConsoleUI: A static class responsible for all input/output with the user.
 GarageManagerUI: Manages the interaction between the user and the garage.
@@ -54,4 +59,4 @@ C# 7.0 or higher
 .NET Framework 4.7.2 or higher
 
 Class Diagram
-The project utilizes object-oriented principles such as inheritance and polymorphism. The key relationships between the classes are depicted in the included diagram (p).
+The project utilizes object-oriented principles such as inheritance and polymorphism. The key relationships between the classes are depicted in the included diagram ([p](https://github.com/RomShemer/GarageFactory/blob/master/B24%20Ex03%20RomShemer%20206662587%20NoaAltshuler%20209281419.jpg)).
